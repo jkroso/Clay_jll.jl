@@ -5,7 +5,7 @@ os = "macos"
 
     [[Clay.download]]
     sha256 = "cb3dc2dc699a86a0e8725cb59609fe42f871a6272287b9c18a0f288bd38d7da8"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.aarch64-apple-darwin.tar.gz"
 [[Clay]]
 arch = "aarch64"
 git-tree-sha1 = "08c7760e522d81b5be5d40a14d91e8e89ac7edb9"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[Clay.download]]
     sha256 = "63acce777b151636effc27709d6c76601d60ead978b86d97f874767ee5c61faa"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.aarch64-linux-gnu.tar.gz"
 [[Clay]]
 arch = "aarch64"
 git-tree-sha1 = "3a58a79c9df351637e925cdc28bec32c51399b8a"
@@ -22,7 +22,7 @@ os = "freebsd"
 
     [[Clay.download]]
     sha256 = "28302a1f34fbae99cff88129be3c952479b0d85d3368ed9777e18d86f17c4db8"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.aarch64-unknown-freebsd.tar.gz"
 [[Clay]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -32,7 +32,7 @@ os = "linux"
 
     [[Clay.download]]
     sha256 = "433dd700293baaa1023db17af2740fe52f75116db1a304cd982c39903d2cc48e"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.armv6l-linux-gnueabihf.tar.gz"
 [[Clay]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -42,7 +42,7 @@ os = "linux"
 
     [[Clay.download]]
     sha256 = "b57d84a26f6a51feae48a94512712847354e4594bccf3f9c0862ea555562f0aa"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.armv7l-linux-gnueabihf.tar.gz"
 [[Clay]]
 arch = "i686"
 git-tree-sha1 = "9b5914b4cf0dda7b9eef25e4f412fbe3ae1e1926"
@@ -50,7 +50,7 @@ os = "windows"
 
     [[Clay.download]]
     sha256 = "0c597e18e2b4d88b504697ed1a652453a1bbe65dacae020f24d0346dbe24d777"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.i686-w64-mingw32.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.i686-w64-mingw32.tar.gz"
 [[Clay]]
 arch = "powerpc64le"
 git-tree-sha1 = "0af198a0fd5932290cda70ad09979f75929a1ec3"
@@ -59,7 +59,7 @@ os = "linux"
 
     [[Clay.download]]
     sha256 = "25efead9b6ef8c73b06e77b12b9528f3313cc462522c931718b1411fa14ef90a"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.powerpc64le-linux-gnu.tar.gz"
 [[Clay]]
 arch = "riscv64"
 git-tree-sha1 = "676af8cdacd5cdeb441431a8a301f2a0a558785c"
@@ -68,7 +68,7 @@ os = "linux"
 
     [[Clay.download]]
     sha256 = "7e7ed608314ecff54f4eb4d906d935ccefcf87ca2b1b15e7e450ea228876d2de"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.riscv64-linux-gnu.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.riscv64-linux-gnu.tar.gz"
 [[Clay]]
 arch = "x86_64"
 git-tree-sha1 = "7d666c4840bc22848a4b83d2e57ef24662386671"
@@ -76,7 +76,7 @@ os = "macos"
 
     [[Clay.download]]
     sha256 = "14a9c7d6edd2cb5a344ffbc25b7b4fb39d058c4ddda4e43aedeccaa46da9c494"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-apple-darwin.tar.gz"
 [[Clay]]
 arch = "x86_64"
 git-tree-sha1 = "9962d258640b6f4520432931b21adc3c20668408"
@@ -84,7 +84,7 @@ os = "freebsd"
 
     [[Clay.download]]
     sha256 = "dbf792a633ebf2f46b1b3503ecdd880f6a9ad79125691459b5508f2ac156db2d"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-unknown-freebsd.tar.gz"
 [[Clay]]
 arch = "x86_64"
 git-tree-sha1 = "e621063ceae17c2eb42bcc67e40d2616b836bbc0"
@@ -92,4 +92,4 @@ os = "windows"
 
     [[Clay.download]]
     sha256 = "4f6654c1c0ec2396c48247fc87bb601076ca9f86b30f50f711500a812c550f3f"
-    url = "https://github.com/local/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-w64-mingw32.tar.gz"
+    url = "https://github.com/jkroso/Clay_jll.jl/releases/download/Clay-v0.1.2+0/Clay.v0.1.2.x86_64-w64-mingw32.tar.gz"
